@@ -1,9 +1,9 @@
 <h1 align="center">Hey there! 👋 I'm Rishabh Kumar Mandal</h1>
-<h3 align="center">🚀 Innovator | AI Enthusiast | IoT Developer | Research Writer 🚀</h3>
+<h3 align="center">🚀 Innovator | AI Engineer | IoT Developer | Researcher |  Enthusiast 🚀</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
 </p>
 
@@ -13,7 +13,7 @@
 
 - 🔬 I'm working on **AI-based healthcare, AgriTech, and Smart Systems**
 - ✍️ Experienced **technical writer** in AI/ML + interdisciplinary innovations
-- 🔧 Constantly learning **DSA in Java, Deep Learning, and DevOps**
+- 🔧 Constantly learning **DSA in Java, Deep Learning, **
 - 💡 Passionate about **building solutions that empower lives**
 - 🎯 Focused on merging **tech + sustainability + tradition**
 
@@ -41,12 +41,19 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh-Kumar-Mandal&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh-Kumar-Mandal&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-Kumar-Mandal&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabhkumarmandal-ai&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkumarmandal-ai&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkumarmandal-ai&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 ---
 
 ### 🏆 GitHub Achievements

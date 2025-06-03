@@ -75,7 +75,7 @@
 ### ⏱️ Wakatime Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/[wakatime?username=your_wakatime_username](https://wakatime.com/@rishabhkumarmandal)&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rishabhkumarmandal&theme=radical" />
 </p>
 
 

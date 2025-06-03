@@ -1,82 +1,80 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Coding Animation" width="400"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Rishabh Kumar Mandal</h1>
-<h3 align="center">🚀 AI Engineer | Innovator | Tech Enthusiast</h3>
+<h1 align="center">Hey there! 👋 I'm Rishabh Kumar Mandal</h1>
+<h3 align="center">🚀 Innovator | AI Enthusiast | IoT Developer | Research Writer 🚀</h3>
 
 <p align="center">
-  <a href="https://port-folio-sable-eight.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
-  </a>
-  <a href="https://twitter.com/rishabh_kmandal" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/rishabh_kmandal?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/rishabh-kumar-mandal-2470b0272" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rishabh.mandal@aicentre.org" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 💡 About Me
 
-- 🧠 *AI Engineer* passionate about building smart solutions that make a difference.
-- 🎓 Deep expertise in *Artificial Intelligence, Machine Learning, Deep Learning, CNN, NLP*.
-- 🌐 Skilled in *Web Development* (React, Django, JavaScript, Python).
-- 📱 *Mobile & Embedded Dev:* React Native, Arduino, ESP MC, Raspberry Pi, IoT Embedded.
-- 🗃 Databases: MySQL, SQLite
-- 💡 Always learning, currently exploring advanced Deep Learning concepts!
-
----
-
-### 🌟 Featured Projects
-
-- Explore my portfolio for a showcase of my work: [Portfolio Website](https://port-folio-sable-eight.vercel.app/)
-- Check out my latest articles and tutorials: [Vision Igniter Think Blog](https://visionigniterthink.blogspot.com/)
+- 🔬 I'm working on **AI-based healthcare, AgriTech, and Smart Systems**
+- ✍️ Experienced **technical writer** in AI/ML + interdisciplinary innovations
+- 🔧 Constantly learning **DSA in Java, Deep Learning, and DevOps**
+- 💡 Passionate about **building solutions that empower lives**
+- 🎯 Focused on merging **tech + sustainability + tradition**
 
 ---
 
-### 🛠 Languages & Tools
+### 🚀 My Top Projects
 
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</p>
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🧠 AI Skin Diagnosis & Treatment | Detects skin diseases & suggests Ayurvedic + allopathic remedies | Python, OpenCV, TensorFlow |
+| 🌾 Agri Saarthi | A digital bridge between farmers and vendors with e-commerce support | React, Firebase, Node.js |
+| 🧮 AI Mathematician | Digital pad to detect math sketches and solve trigonometry & algebra | Python, ML, OpenCV |
+| 🗑️ Hi-Tech Waste Segregator | Smart system to segregate biodegradable, plastic, and metals | Arduino, ML, Servo |
+| 💧 AI Filtration System | Multi-chambered smart filtration for industrial wastewater | IoT, Python, Cloud |
 
 ---
 
-### 📫 Let’s Connect!
-
-- Email: *rishabh.mandal@aicentre.org*
-- [Twitter](https://twitter.com/rishabh_kmandal)
-- [LinkedIn](https://www.linkedin.com/in/rishabh-kumar-mandal-2470b0272)
-- [Instagram](https://www.instagram.com/rishabh.kumar.mandal/)
-- [Medium](https://medium.com/@rishabh_94784)
-- [Blog](https://visionigniterthink.blogspot.com/)
-
----
-
-### 🏆 GitHub Stats
+### 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishabhkumarmandal-ai&theme=radical" alt="trophy"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabhkumarmandal-ai&show_icons=true&locale=en" alt="rishabhkumarmandal-ai" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkumarmandal-ai" alt="rishabhkumarmandal-ai" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhkumarmandal-ai&show_icons=true&locale=en&layout=compact" alt="rishabhkumarmandal-ai" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,tailwind,git,github,firebase,raspberrypi,c,cpp,vercel,linux" />
 </p>
 
 ---
 
-“Driven by curiosity, fueled by code.”
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh-Kumar-Mandal&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh-Kumar-Mandal&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-Kumar-Mandal&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishabh-Kumar-Mandal&theme=onedark&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="mailto:rishabh.writer@domain.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rishabh-kumar-mandal"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@yourchannel"><img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧠 Quote I Live By
+
+> *“Don't just innovate. Innovate for Bharat 🌾.”* — Rishabh Mandal
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
+</p>

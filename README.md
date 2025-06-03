@@ -1,9 +1,21 @@
 <h1 align="center">Hey there! 👋 I'm Rishabh Kumar Mandal</h1>
 <h3 align="center">🚀 Innovator | AI Engineer | IoT Developer | Researcher |  Enthusiast 🚀</h3>
 
+---
+### 🧠 Quote I Live By
+
+> *“Don't just innovate. Innovate for Bharat 🌾.”* — Rishabh Mandal
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"  />
 </p>
 
@@ -55,14 +67,7 @@
 </p>
 
 
-### 🏆 GitHub Achievements
 
-
-### 🧊 3D Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/rishabhkumarmandal-ai/rishabhkumarmandal-ai/blob/main/assets/3d-contrib.gif"alt="3D Contribution Graph" />
-</p>
 
 
 ### 🔥 Contribution Heatmap

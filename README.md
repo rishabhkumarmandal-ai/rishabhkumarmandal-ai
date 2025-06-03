@@ -61,7 +61,7 @@
 ### 🧊 3D Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/rishabhkumarmandal-ai/rishabhkumarmandal-ai/blob/main/assets/3d-contrib.gif" alt="3D Contribution Graph" />
+  <img src="https://github.com/rishabhkumarmandal-ai/rishabhkumarmandal-ai/blob/main/assets/3d-contrib.gif"alt="3D Contribution Graph" />
 </p>
 
 

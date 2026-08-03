@@ -130,7 +130,7 @@ Published work indexed on Google Scholar.
 
 <img src="https://raw.githubusercontent.com/rishabhkumarmandal-ai/rishabhkumarmandal-ai/output/github-contribution-grid-snake-dark.svg" width="100%">
 
-<sub>⚡ Snake animation activates once the GitHub Action below is added to your profile repo — see setup note at the bottom.</sub>
+<sub>⚡ I code when it's needed .</sub>
 
 </div>
 

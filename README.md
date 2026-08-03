@@ -116,6 +116,7 @@ Published work indexed on Google Scholar.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rishabhkumarmandal-ai&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="165"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhkumarmandal-ai&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhkumarmandal-ai&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" height="165"/>

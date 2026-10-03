@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff41&height=220&section=header&text=RISHABH%20KUMAR%20MANDAL&fontSize=42&fontColor=00ff41&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Founder-Minded%20Engineer&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=%24+whoami;rishabhkumarmandal-ai;%24+cat+role.txt;Full-Stack+Developer+%E2%80%94+Web+%2B+App+%2B+AI;%24+cat+motto.txt;Engineer+by+code.+Entrepreneur+by+fire.+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=%24+whoami;rishabhkumarmandal-ai;%24+cat+role.txt;+%E2%80%94+Web+%2B+App+%2B+AI;%24+cat+motto.txt;Engineer+by+code.+Entrepreneur+by+fire.+%F0%9F%94%A5" alt="Typing SVG" />
 
 </div>
 
